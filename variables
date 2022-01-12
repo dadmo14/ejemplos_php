@@ -1,0 +1,10 @@
+<?php 
+$variables  = 35;
+$nombre= "David";
+
+print "MI nombre es $nombre ,mi edas es: $variables";
+
+$Num1 = 1;
+$Num2 = 2;
+echo $Num2 + $Num1;
+?>
